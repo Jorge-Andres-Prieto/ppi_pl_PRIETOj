@@ -64,7 +64,9 @@
     <footer>
         <p>&copy; 2023 - [Tu nombre]</p>
     </footer>
-    <script>
+    
+</body>
+<script>
         function scrollToSection(id) {
             const element = document.getElementById(id);
             element.scrollIntoView({
@@ -73,14 +75,11 @@
                 inline: "nearest"
             });
         }
-
         const navLinks = document.querySelectorAll("#tabla-de-contenido ul li a");
-
         for (let link of navLinks) {
             link.addEventListener("click", function() {
                 scrollToSection(this.getAttribute("href").slice(1));
             });
         }
     </script>
-</body>
 </html>
