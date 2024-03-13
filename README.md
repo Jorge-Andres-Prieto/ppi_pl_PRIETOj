@@ -57,3 +57,65 @@
     </footer>
 </body>
 </html>
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }
+}
