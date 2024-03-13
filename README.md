@@ -2,15 +2,14 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Redmi</title>
+    <title>Desarrollo y análisis de datos con Python</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Redmi</h1>
+        <h1>Desarrollo y análisis de datos con Python</h1>
     </header>
-    <section id="tabla-de-contenido">
-        <h2>Tabla de Contenido</h2>
+    <nav>
         <ul>
             <li><a href="#introduccion">Introducción</a></li>
             <li><a href="#acerca-de-mi">Acerca de mí</a></li>
@@ -18,15 +17,15 @@
             <li><a href="#tecnologías">Tecnologías</a></li>
             <li><a href="#contacto">Contacto</a></li>
         </ul>
-    </section>
+    </nav>
     <main>
         <section id="introduccion">
             <h2>Introducción</h2>
-            <p>Este repositorio es un escaparate de mi trabajo como desarrollador Python freelance. Aquí encontrarás una selección de mis proyectos más destacados, así como información sobre mi experiencia y habilidades.</p>
+            <p>Este sitio web es un escaparate de mi trabajo como desarrollador y analista de datos con Python. Aquí encontrarás una selección de mis proyectos más destacados, así como información sobre mi experiencia y habilidades.</p>
         </section>
         <section id="acerca-de-mi">
             <h2>Acerca de mí</h2>
-            <p>Soy un estudiante de 8º semestre de Ingeniería de Sistemas en la Universidad Nacional. Tengo un fuerte interés en análisis de datos y me apasiona utilizar la tecnología para resolver problemas y mejorar la eficiencia.</p>
+            <p>Soy un apasionado de la tecnología y me especializo en el uso de Python para resolver problemas y extraer información valiosa de los datos. Tengo experiencia en una variedad de proyectos, desde análisis de datos financieros hasta visualización de datos y aprendizaje automático.</p>
         </section>
         <section id="portafolio">
             <h2>Portafolio</h2>
@@ -48,9 +47,10 @@
         <section id="tecnologías">
             <h2>Tecnologías</h2>
             <ul>
-                <li>Python: NumPy, Pandas, Matplotlib</li>
-                <li>Web: Streamlit</li>
-                <li>Bases de datos: MySQL, SQL Server</li>
+                <li>Python: NumPy, Pandas, Matplotlib, Scikit-learn</li>
+                <li>Web: Django, Flask, Streamlit</li>
+                <li>Bases de datos: MySQL, PostgreSQL</li>
+                <li>Herramientas: Jupyter Notebook, Git, GitHub</li>
             </ul>
         </section>
         <section id="contacto">
@@ -65,23 +65,5 @@
     <footer>
         <p>&copy; 2023 - [Tu nombre]</p>
     </footer>
-    <script>
-        function scrollToSection(id) {
-            const element = document.getElementById(id);
-            element.scrollIntoView({
-                behavior: "smooth",
-                block: "start",
-                inline: "nearest"
-            });
-        }
-
-        const navLinks = document.querySelectorAll("#tabla-de-contenido ul li a");
-
-        for (let link of navLinks) {
-            link.addEventListener("click", function() {
-                scrollToSection(this.getAttribute("href").slice(1));
-            });
-        }
-    </script>
 </body>
 </html>
