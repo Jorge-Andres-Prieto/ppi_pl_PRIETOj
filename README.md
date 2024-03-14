@@ -57,8 +57,8 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
         <section id="contacto">
             <h2>Contacto</h2>
             <ul>
-                <li>[[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)]</li>
-                <li>[[GITHUB](https://github.com/Jorge-Andres-Prieto)]</li>
+                <li>[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)</li>
+                <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
                 <li>jprietoj@unal.edu.co</li>
             </ul>
         </section>
