@@ -58,13 +58,13 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <h2>Contacto</h2>
             <ul>
                 <li>Correo electrónico: jprietoj@unal.edu.co</li>
-                <li>LinkedIn: [[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)]</li>
-                <li>GitHub: [GITHUB]</li>
+                <li>[[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)]</li>
+                <li>[[GITHUB](https://github.com/Jorge-Andres-Prieto)]</li>
             </ul>
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 - [Tu nombre]</p>
+        <p>&copy; 2024 - [JORGE ANDRES PRIETO JIMENEZ]</p>
     </footer>
     
 </body>
