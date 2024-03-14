@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Desarrollo y análisis de datos con Python</h1>
+        <h1>Análisis de datos y desarrollo de aplicaciones con Python</h1>
     </header>
     <section id="tabla-de-contenido">
         <h2>Tabla de Contenido</h2>
