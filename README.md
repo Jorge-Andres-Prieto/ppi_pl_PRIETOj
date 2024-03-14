@@ -21,13 +21,9 @@
     <main>
         <section id="introduccion">
             <h2>Introducción</h2>
-            <p>Este repositorio es un portafolio de mi trabajo como desarrollador Python freelance.
+            <p>Este repositorio es un portafolio de mi trabajo como desarrollador Python freelance, Aquí encontrarás una selección de proyectos que he desarrollado, abarcando una amplia gama de tecnologías y soluciones.
 
-Aquí encontrarás una selección de proyectos que he desarrollado, abarcando una amplia gama de tecnologías y soluciones.
-
-También podrás encontrar información sobre mi experiencia y habilidades como desarrollador Python freelance.
-
-Te invito a explorar mi portafolio para conocer mejor mi trabajo y cómo puedo ayudarte en tus proyectos.</p>
+También podrás encontrar información sobre mi experiencia y habilidades como desarrollador Python freelance, Te invito a explorar mi portafolio para conocer mejor mi trabajo y cómo puedo ayudarte en tus proyectos.</p>
         </section>
         <section id="acerca-de-mi">
             <h2>Acerca de mí</h2>
