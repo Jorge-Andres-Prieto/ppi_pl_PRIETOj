@@ -66,7 +66,8 @@
     </footer>
     
 </body>
-<script>
+<!-- Script para la tabla de contenido (no mostrar en la vista previa de GitHub) -->
+    <!-- <script>
         function scrollToSection(id) {
             const element = document.getElementById(id);
             element.scrollIntoView({
@@ -81,5 +82,5 @@
                 scrollToSection(this.getAttribute("href").slice(1));
             });
         }
-    </script>
+    </script> -->
 </html>
