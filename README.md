@@ -21,7 +21,7 @@
     <main>
         <section id="introduccion">
             <h2>Introducción</h2>
-            <p>Este repositorio es un escaparate de mi trabajo como desarrollador Python freelance. Aquí encontrarás una selección de mis proyectos más destacados, así como información sobre mi experiencia y habilidades.</p>
+            <p>Este repositorio es un portafolio de mi trabajo como desarrollador Python freelance. Aquí encontrarás una selección de mis proyectos más destacados, así como información sobre mi experiencia y habilidades.</p>
         </section>
         <section id="acerca-de-mi">
             <h2>Acerca de mí</h2>
