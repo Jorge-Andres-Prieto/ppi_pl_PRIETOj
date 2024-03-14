@@ -57,8 +57,8 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
         <section id="contacto">
             <h2>Contacto</h2>
             <ul>
-                <li>Correo electrónico: [CORREO ELECTRÓNICO]</li>
-                <li>LinkedIn: [LINKEDIN]</li>
+                <li>Correo electrónico: jprietoj@unal.edu.co</li>
+                <li>LinkedIn: [[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)]</li>
                 <li>GitHub: [GITHUB]</li>
             </ul>
         </section>
