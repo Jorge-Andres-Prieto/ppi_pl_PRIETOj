@@ -50,8 +50,8 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <h2>Tecnologías</h2>
             <ul>
                 <li>Python: NumPy, Pandas, Matplotlib</li>
-                <li>Web: Streamlit</li>
                 <li>Bases de datos: MySQL, SQL Server</li>
+                <li>Web: Streamlit</li>
             </ul>
         </section>
         <section id="contacto">
@@ -59,7 +59,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <ul>
                 <li>[[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)]</li>
                 <li>[[GITHUB](https://github.com/Jorge-Andres-Prieto)]</li>
-                <li>Correo electrónico: jprietoj@unal.edu.co</li>
+                <li>jprietoj@unal.edu.co</li>
             </ul>
         </section>
     </main>
