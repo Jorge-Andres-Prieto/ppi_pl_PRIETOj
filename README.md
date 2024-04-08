@@ -64,6 +64,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
                 <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
                 <li>jprietoj@unal.edu.co o prietojorge905@gmail.com</li>
                 <li>[STACKOVERFLOW](https://stackoverflow.com/)</li>
+                <li>[REDDIT](https://www.reddit.com/user/Flestar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)</li>
             </ul>
         </section>
     </main>
