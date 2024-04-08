@@ -1,48 +1,38 @@
-# Importar las librerías requeridas
-import matplotlib
-import matplotlib.pyplot as plt
-import numpy as np
+import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
-# Cargar los datos
-ruta_registradas = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR9IGQhDWN0qA-jon8x0cUTap8IxvrdzGjF_kN98upNSQDeDJsI6UkpyGYOtPV18cbSB-rQzU62btO6/pub?gid=446676900&single=true&output=csv'
+# Cargar el dataframe de empresas
+empresas_df = pd.read_csv("empresas.csv")
 
-registradas_df = pd.read_csv(ruta_registradas)
+# Obtener la lista de barrios
+barrios = empresas_df["BARRIO"].unique()
 
-# Encontrar los nombres de las columnas
-columnas_df = registradas_df.columns.tolist()
+# Función para buscar empresas por razón social
+def buscar_empresas(razon_social):
+    return empresas_df[empresas_df["RAZON_SOCIAL"].str.contains(razon_social, regex=False)]
 
-# Búsqueda por nombre de empresa
-termino_busqueda = st.text_input("Ingrese el nombre de la empresa a buscar:", "")
-# Convertir a mayúsculas y eliminar espacios
-termino_busqueda = termino_busqueda.upper().strip()
+# Agregar widget de búsqueda por razón social
+razon_social = st.text_input("Ingrese la razón social de la empresa")
 
-# Filtrar el DataFrame
-resultados_df = registradas_df[registradas_df["RAZON SOCIAL"].str.match(termino_busqueda, case=False)]
+# Filtrar las empresas por barrio
+empresas_barrio = empresas_df[empresas_df["BARRIO"] == barrio_seleccionado]
 
-# Mostrar los resultados
-if len(resultados_df) > 0:
-    st.table(resultados_df[columnas_df])
-else:
-    st.info("No se encontraron empresas con el nombre ingresado.")
+# Buscar empresas por razón social
+empresas_busqueda = buscar_empresas(razon_social)
 
-# Obtener los datos
-sectores_df = empresas_df[empresas_df["MUNICIPIO"] == "LA DORADA"].groupby("CIIU").size()
+# Mostrar la lista de empresas
+st.table(empresas_busqueda & empresas_barrio)
 
-# Crear el gráfico
-plt.bar(sectores_df.index, sectores_df)
-plt.xlabel("Sector (CIIU)")
-plt.ylabel("Número de empresas")
-plt.title("Empresas por sector en La Dorada")
-plt.show()
+# Calcular el número de empresas por sector
+sectores_df = empresas_busqueda & empresas_barrio.groupby("CIIU").size()
 
-# Obtener los datos
-barrios_df = empresas_df.groupby("BARRIO").size()
+# Mostrar las estadísticas
+st.metric("Número de empresas", sectores_df.sum())
+st.metric("Número de empleados", (empresas_busqueda & empresas_barrio)["empleados"].sum())
 
-# Crear el gráfico
-plt.bar(barrios_df.index, barrios_df)
-plt.xlabel("Barrio")
-plt.ylabel("Número de empresas")
-plt.title("Empresas por barrio")
-plt.show()
+# Mostrar un mapa con las empresas del barrio
+# (Opcional, requiere librerías adicionales)
+
+# Agregar otras funcionalidades
+# (Opcional)
+
