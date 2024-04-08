@@ -63,6 +63,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
                 <li>[FIVERR](https://www.fiverr.com/andres__jimenez?public_mode=true)</li>
                 <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
                 <li>jprietoj@unal.edu.co o prietojorge905@gmail.com</li>
+                <li>[STACKOVERFLOW](https://stackoverflow.com/)</li>
             </ul>
         </section>
     </main>
