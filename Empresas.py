@@ -1,8 +1,9 @@
 # Importar las librerías requeridas
-import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+
 
 # Cargar los datos
 ruta_registradas = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR9IGQhDWN0qA-jon8x0cUTap8IxvrdzGjF_kN98upNSQDeDJsI6UkpyGYOtPV18cbSB-rQzU62btO6/pub?gid=446676900&single=true&output=csv'
