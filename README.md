@@ -61,6 +61,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <ul>
                 <li>[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)</li>
                 <li>[FIVERR](https://www.fiverr.com/andres__jimenez?public_mode=true)</li>
+                <li>[UPWORK](https://www.upwork.com/freelancers/~0142bd1ae6229261b5)</li>
                 <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
                 <li>jprietoj@unal.edu.co</li>
                 <li>[STACKOVERFLOW](https://stackoverflow.com/)</li>
