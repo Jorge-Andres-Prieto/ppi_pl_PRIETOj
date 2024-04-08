@@ -36,7 +36,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <ul>
                 <li>
                     <h3>[Analisís de Datos](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Analis%C3%ADs_Datos.py)</h3>
-                    <p>Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes..</p>
+                    <p>Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes.</p>
                 </li>
                 <li>
                     <h3>[Motor de Búsqueda](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Empresas.py)</h3>
