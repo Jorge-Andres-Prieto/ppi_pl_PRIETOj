@@ -61,7 +61,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
                 <li>[UPWORK](https://www.upwork.com/freelancers/~0142bd1ae6229261b5)</li>
                 <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
                 <li>jprietoj@unal.edu.co</li>
-                <li>[STACKOVERFLOW](https://stackoverflow.com/)</li>
+                <li>[STACKOVERFLOW](https://stackoverflow.com/users/24101727/jorge-prieto)</li>
                 <li>[REDDIT](https://www.reddit.com/user/Flestar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)</li>
             </ul>
         </section>
