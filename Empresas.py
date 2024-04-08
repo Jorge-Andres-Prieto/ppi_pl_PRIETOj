@@ -13,10 +13,11 @@ columnas_df = registradas_df.columns.tolist()
 
 # Búsqueda por nombre de empresa
 termino_busqueda = st.text_input("Ingrese el nombre de la empresa a buscar:", "")
-termino_busqueda = termino_busqueda.lower().strip()
+# Convertir a mayúsculas y eliminar espacios
+termino_busqueda = termino_busqueda.upper().strip()
 
 # Filtrar el DataFrame
-resultados_df = registradas_df[registradas_df["RAZON SOCIAL"].str.contains(termino_busqueda)]
+resultados_df = registradas_df[registradas_df["RAZON SOCIAL"].str.match(termino_busqueda, case=False)]
 
 # Mostrar los resultados
 if len(resultados_df) > 0:
