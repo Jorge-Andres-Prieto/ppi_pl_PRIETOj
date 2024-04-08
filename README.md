@@ -35,8 +35,8 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <h2>Portafolio</h2>
             <ul>
                 <li>
-                    <h3>[PROYECTO 1]</h3>
-                    <p>Descripción breve del proyecto, tecnologías utilizadas y enlace al código fuente.</p>
+                    <h3>[Analisís de Datos](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Analis%C3%ADs_Datos.py)</h3>
+                    <p>Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes..</p>
                 </li>
                 <li>
                     <h3>[PROYECTO 2]</h3>
