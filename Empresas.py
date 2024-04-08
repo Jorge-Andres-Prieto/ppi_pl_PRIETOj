@@ -1,4 +1,5 @@
 # Importar las librerías requeridas
+import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
 import pandas as pd
@@ -24,3 +25,23 @@ if len(resultados_df) > 0:
     st.table(resultados_df[columnas_df])
 else:
     st.info("No se encontraron empresas con el nombre ingresado.")
+
+# Obtener los datos
+sectores_df = empresas_df[empresas_df["MUNICIPIO"] == "LA DORADA"].groupby("CIIU").size()
+
+# Crear el gráfico
+plt.bar(sectores_df.index, sectores_df)
+plt.xlabel("Sector (CIIU)")
+plt.ylabel("Número de empresas")
+plt.title("Empresas por sector en La Dorada")
+plt.show()
+
+# Obtener los datos
+barrios_df = empresas_df.groupby("BARRIO").size()
+
+# Crear el gráfico
+plt.bar(barrios_df.index, barrios_df)
+plt.xlabel("Barrio")
+plt.ylabel("Número de empresas")
+plt.title("Empresas por barrio")
+plt.show()
