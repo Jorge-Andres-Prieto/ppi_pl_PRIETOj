@@ -1,9 +1,5 @@
 # Importar las librerías requeridas
 import streamlit as st
-
-# Configura Streamlit para usar Matplotlib
-st.set_option('backend', 'matplotlib')
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
