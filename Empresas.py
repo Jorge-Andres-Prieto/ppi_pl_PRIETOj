@@ -40,7 +40,6 @@ sectores_df = empresas_barrio.groupby("CIIU").size()
 
 # Mostrar las estadísticas
 st.metric("Número de empresas en el barrio", sectores_df.sum())
-st.metric("Número de empleados en el barrio", empresas_barrio["empleados"].sum())
 
 # Mostrar un mapa con las empresas del barrio
 # (Opcional, requiere librerías adicionales)
