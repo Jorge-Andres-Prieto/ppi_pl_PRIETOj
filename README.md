@@ -39,12 +39,9 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
                     <p>Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes..</p>
                 </li>
                 <li>
-                    <h3>[PROYECTO 2]</h3>
-                    <p>Descripción breve del proyecto, tecnologías utilizadas y enlace al código fuente.</p>
-                </li>
-                <li>
-                    <h3>[PROYECTO 3]</h3>
-                    <p>Descripción breve del proyecto, tecnologías utilizadas y enlace al código fuente.</p>
+                    <h3>[Motor de Búsqueda](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Empresas.py)</h3>
+                    <p>Desarrollar una aplicación web que permita a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas.
+                    Link Streamlit (https://ej-hjg37pzh7exqcfr44wrem7mpresas.streamlit.app/).</p>
                 </li>
             </ul>
         </section>
