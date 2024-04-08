@@ -8,7 +8,7 @@ ruta_registradas = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR9IGQhDWN0q
 
 registradas_df = pd.read_csv(ruta_registradas)
 
-# Encontrar los nommbres de las columnas
+# Encontrar los nombres de las columnas
 columnas_df = registradas_df.columns.tolist()
 
 # Búsqueda por nombre de empresa
