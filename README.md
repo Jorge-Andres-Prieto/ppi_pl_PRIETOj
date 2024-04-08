@@ -60,6 +60,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
             <h2>Contacto</h2>
             <ul>
                 <li>[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)</li>
+                <li>[LINKEdgsDIN](https://www.linkedin.com/in/jorgsdfe-prieto-b36ab2250/)</li>
                 <li>[FIVERR]([https://www.linkedin.com/in/jorge-prieto-b36ab2250/](https://www.fiverr.com/andres__jimenez?public_mode=true)</li>
                 <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
                 <li>jprietoj@unal.edu.co o prietojorge905@gmail.com</li>
