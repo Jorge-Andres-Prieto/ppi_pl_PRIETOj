@@ -40,7 +40,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
                 </li>
                 <li>
                     <h3>[Motor de Búsqueda](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Empresas.py)</h3>
-                    <p>Desarrollar una aplicación web que permita a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas.
+                    <p>Aplicación web que permite a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas.
                     Link Streamlit (https://ej-hjg37pzh7exqcfr44wrem7mpresas.streamlit.app/).</p>
                 </li>
             </ul>
