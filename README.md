@@ -62,7 +62,7 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
                 <li>[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)</li>
                 <li>[FIVERR](https://www.fiverr.com/andres__jimenez?public_mode=true)</li>
                 <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
-                <li>jprietoj@unal.edu.co o prietojorge905@gmail.com</li>
+                <li>jprietoj@unal.edu.co</li>
                 <li>[STACKOVERFLOW](https://stackoverflow.com/)</li>
                 <li>[REDDIT](https://www.reddit.com/user/Flestar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)</li>
             </ul>
