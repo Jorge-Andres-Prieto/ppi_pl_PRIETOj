@@ -56,13 +56,13 @@ También podrás encontrar información sobre mi experiencia y habilidades como 
         <section id="contacto">
             <h2>Contacto</h2>
             <ul>
-                <li>[LINKEDIN](https://www.linkedin.com/in/jorge-prieto-b36ab2250/)</li>
-                <li>[FIVERR](https://www.fiverr.com/andres__jimenez?public_mode=true)</li>
-                <li>[UPWORK](https://www.upwork.com/freelancers/~0142bd1ae6229261b5)</li>
-                <li>[GITHUB](https://github.com/Jorge-Andres-Prieto)</li>
-                <li>jprietoj@unal.edu.co</li>
-                <li>[STACKOVERFLOW](https://stackoverflow.com/users/24101727/jorge-prieto)</li>
-                <li>[REDDIT](https://www.reddit.com/user/Flestar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)</li>
+                <li><a href="https://www.linkedin.com/in/jorge-prieto-b36ab2250/"><img src="path/to/linkedin_logo.png" alt="LinkedIn"></a></li>
+                <li><a href="https://www.fiverr.com/andres__jimenez?public_mode=true"><img src="path/to/fiverr_logo.png" alt="Fiverr"></a></li>
+                <li><a href="https://www.upwork.com/freelancers/~0142bd1ae6229261b5"><img src="path/to/upwork_logo.png" alt="Upwork"></a></li>
+                <li><a href="https://github.com/Jorge-Andres-Prieto"><img src="path/to/github_logo.png" alt="GitHub"></a></li>
+                <li><a href="mailto:jprietoj@unal.edu.co"><img src="path/to/email_icon.png" alt="Email"></a></li>
+                <li><a href="https://stackoverflow.com/users/24101727/jorge-prieto"><img src="path/to/stackoverflow_logo.png" alt="Stack Overflow"></a></li>
+                <li><a href="https://www.reddit.com/user/Flestar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="path/to/reddit_logo.png" alt="Reddit"></a></li>
             </ul>
         </section>
     </main>
