@@ -4,7 +4,7 @@
 - [Introducción](#introducción)
 - [Acerca de mí](#acerca-de-mí)
 - [Portafolio](#portafolio)
-- [Tecnologías](#tecnologías)
+- [Tecnologías](#tecnologías) ![Python](https://example.com/path/to/small_python_logo.png)
 - [Contacto](#contacto)
 
 ## Introducción
@@ -19,7 +19,7 @@ Soy un estudiante de 8º semestre de Ingeniería de Sistemas en la Universidad N
 - [Análisis de Datos](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Analis%C3%ADs_Datos.py): Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes.
 - [Motor de Búsqueda](https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Empresas.py): Aplicación web que permite a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas. [Link Streamlit](https://ej-hjg37pzh7exqcfr44wrem7mpresas.streamlit.app/).
 
-## Tecnologías
+## Tecnologías ![Python](https://example.com/path/to/small_python_logo.png)
 - Python: NumPy, Pandas, Matplotlib
 - Bases de datos: MySQL, SQL Server
 - Web: Streamlit
