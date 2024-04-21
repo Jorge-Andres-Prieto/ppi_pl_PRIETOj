@@ -1,25 +1,27 @@
 import streamlit as st
 import pandas as pd
 from streamlit_lottie import st_lottie
-import json
-
+import requests  # Importar requests para cargar archivos desde URL
 
 class SearchApp:
     def __init__(self):
         """Inicializa la aplicación con configuraciones predeterminadas."""
-        self.lottie_url = (r"https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Motor_B%C3%BAsqueda/.streamlit/assets/Animation%20-%201713681616801.json"
-                           r"\.streamlit\assets\Animation - 1713681616801.json")
+        # URL directa a la versión raw de tu archivo Lottie en GitHub
+        self.lottie_url = "https://raw.githubusercontent.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/main/Motor_B%C3%BAsqueda/.streamlit/assets/Animation%20-%201713681616801.json"
         self.data_url = ('https://docs.google.com/spreadsheets/d/e/2PACX-1vR9IGQhDWN0qA-jon8x0'
                          'cUTap8IxvrdzGjF_kN98upNSQDeDJsI6UkpyGYOtPV18cbSB-rQzU62btO6/pub?'
                          'gid=446676900&single=true&output=csv')
 
-    def load_lottiefile(self, filepath: str) -> dict:
-        """Carga un archivo Lottie JSON desde una ruta de archivo local."""
-        with open(filepath, "r") as file:
-            return json.load(file)
+    def load_lottiefile(self, url: str) -> dict:
+        """Carga un archivo Lottie JSON desde una URL."""
+        r = requests.get(url)
+        if r.status_code == 200:
+            return r.json()
+        else:
+            return {}  # Retorna un diccionario vacío si hay error
 
     def load_data(self) -> pd.DataFrame:
-        """Carga los datos de la empresa desde una URL predefinida."""
+        """Carga los datos desde una URL predefinida."""
         return pd.read_csv(self.data_url)
 
     def main(self):
@@ -51,7 +53,6 @@ class SearchApp:
                 st.error("No se encontraron empresas con el nombre ingresado.")
         else:
             st.warning("Por favor, ingrese un término de búsqueda.")
-
 
 if __name__ == "__main__":
     app = SearchApp()
