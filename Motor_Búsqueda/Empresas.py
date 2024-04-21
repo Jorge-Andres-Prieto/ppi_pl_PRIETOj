@@ -7,7 +7,7 @@ import json
 class SearchApp:
     def __init__(self):
         """Inicializa la aplicación con configuraciones predeterminadas."""
-        self.lottie_url = (r"C:\Users\LENOVO\PycharmProjects\Motor_Búsqueda"
+        self.lottie_url = (r"https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Motor_B%C3%BAsqueda/.streamlit/assets/Animation%20-%201713681616801.json"
                            r"\.streamlit\assets\Animation - 1713681616801.json")
         self.data_url = ('https://docs.google.com/spreadsheets/d/e/2PACX-1vR9IGQhDWN0qA-jon8x0'
                          'cUTap8IxvrdzGjF_kN98upNSQDeDJsI6UkpyGYOtPV18cbSB-rQzU62btO6/pub?'
