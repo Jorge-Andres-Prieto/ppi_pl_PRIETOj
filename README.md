@@ -1,4 +1,4 @@
-# Análisis de datos y desarrollo de aplicaciones con Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30">
+# Análisis de datos y desarrollo de aplicaciones con Python <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30">
 
 ## Tabla de Contenido
 - [Introducción](#introducción)
@@ -26,8 +26,7 @@ Soy un estudiante de 8º semestre de Ingeniería de Sistemas en la Universidad N
 - Bases de datos: MySQL, SQL Server
 - Web: Streamlit
 
-## Contacto
-
+<h3 id="contacto" align="center">Contacto</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-prieto-b36ab2250/"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG37.png" alt="LinkedIn" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.fiverr.com/andres__jimenez?public_mode=true"><img src="https://freelogopng.com/images/all_img/1656738600fiverr-app-logo.png" alt="Fiverr" width="50" style="margin-right: 20px;"></a>
