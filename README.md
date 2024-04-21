@@ -1,4 +1,4 @@
-<h2>Análisis de datos y desarrollo de aplicaciones con Python <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="30"></h2>
+<h2 align="center">Análisis de datos y desarrollo de aplicaciones con Python <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="30"></h2>
 
 <h3>Tabla de Contenido</h3>
 <ul>
@@ -33,7 +33,7 @@
 <p style="text-align: center;">
   <a href="https://www.linkedin.com/in/jorge-prieto-b36ab2250/"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG37.png" alt="LinkedIn" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.fiverr.com/andres__jimenez?public_mode=true"><img src="https://freelogopng.com/images/all_img/1656738600fiverr-app-logo.png" alt="Fiverr" width="50" style="margin-right: 20px;"></a>
-  <a href="https://www.upwork.com/freelancers/~0142bd1ae6229261b5"><img src="https://w7.pngwing.com/pngs/562/304/png-transparent-upwork-macos-bigsur-icon-thumbnail.png" alt="Upwork" width="50" style="margin-right: 20px;"></a>
+  <a href="https://www.upwork.com/freelancers/~0142bd1ae6229261b5"><img src="https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo-thumbnail.png" alt="Upwork" width="50" style="margin-right: 20px;"></a>
   <a href="https://github.com/Jorge-Andres-Prieto"><img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-512.png" alt="GitHub" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.reddit.com/user/Flestar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" alt="Reddit" width="50" style="margin-right: 20px;"></a>
   <a href="https://stackoverflow.com/users/24101727/jorge-prieto"><img src="https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Icon-Logo.wine.svg" alt="Stack Overflow" width="50" style="margin-right: 20px;"></a>
