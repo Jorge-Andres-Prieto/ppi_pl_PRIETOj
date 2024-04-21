@@ -17,7 +17,7 @@
 
 <h3 id="portafolio"><img src="https://img.icons8.com/small/16/000000/portfolio.png"> Portafolio</h3>
 <ul>
-  <li><a href="https://github.com/Jorge-Andres-Prieto/ppi_pl_PRIETOj/blob/main/Analis%C3%ADs_Datos.py">Análisis de Datos</a>: Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes.</li>
+  <li><a href="https://data543njfdkmc8qsqcggrjk3.streamlit.app/">Análisis de Datos</a>: Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes.</li>
   <li><a href="https://motorbusqueda-b7vqjan3gqwfogzshn8dr.streamlit.app/">Motor de Búsqueda</a>: Aplicación web que permite a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas.
 </ul>
 
