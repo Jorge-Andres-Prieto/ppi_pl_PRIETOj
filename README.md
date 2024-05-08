@@ -13,7 +13,7 @@
 <p>Este repositorio es un portafolio de mi trabajo como desarrollador Python freelance. Aquí encontrarás una selección de proyectos que he desarrollado, abarcando una amplia gama de tecnologías y soluciones.</p>
 
 <h3 id="acerca-de-mí"><img src="https://img.icons8.com/small/16/000000/user.png"> Acerca de mí</h3>
-<p>Soy un estudiante de 8º semestre de Ingeniería de Sistemas en la Universidad Nacional. Tengo un fuerte interés en análisis de datos y me apasiona utilizar la tecnología para resolver problemas y mejorar la eficiencia.</p>
+<p>Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional. Tengo un fuerte interés en análisis de datos y me apasiona utilizar la tecnología para resolver problemas y mejorar la eficiencia. Además, tengo experiencia en el uso de la API de OpenAI para desarrollar aplicaciones con inteligencia artificial.</p>
 
 <h3 id="portafolio"><img src="https://img.icons8.com/small/16/000000/portfolio.png"> Portafolio</h3>
 <ul>
