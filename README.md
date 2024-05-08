@@ -30,6 +30,7 @@
   <li>Python: NumPy, Pandas, Matplotlib</li>
   <li>Bases de datos: MySQL, SQL Server</li>
   <li>Web: Streamlit</li>
+  <li>IA: API OpenAI</li>
 </ul>
 
 <h3 id="contacto" align="center">Contacto</h3>
