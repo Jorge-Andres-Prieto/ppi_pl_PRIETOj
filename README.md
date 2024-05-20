@@ -1,6 +1,6 @@
 <h2 align="center">Análisis de datos y desarrollo de aplicaciones con Python <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="30"></h2>
 
-<h3>Tabla de Contenido</h3>
+<h3>🗂️ Tabla de Contenido</h3>
 <ul>
   <li><a href="#introducción">Introducción</a></li>
   <li><a href="#acerca-de-mí">Acerca de mí</a></li>
@@ -9,43 +9,58 @@
   <li><a href="#contacto">Contacto</a></li>
 </ul>
 
-<h3 id="introducción"><img src="https://img.icons8.com/small/16/000000/book.png"> Introducción</h3>
+<h3 id="introducción">📖 Introducción</h3>
 <p>Este repositorio es un portafolio de mi trabajo como desarrollador Python freelance. Aquí encontrarás una selección de proyectos que he desarrollado, abarcando una amplia gama de tecnologías y soluciones.</p>
 
-<h3 id="acerca-de-mí"><img src="https://img.icons8.com/small/16/000000/user.png"> Acerca de mí</h3>
+<h3 id="acerca-de-mí">👤 Acerca de mí</h3>
 <p>Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional. Tengo un fuerte interés en análisis de datos y me apasiona utilizar la tecnología para resolver problemas y mejorar la eficiencia. Además, tengo experiencia en el uso de la API de OpenAI para desarrollar aplicaciones con inteligencia artificial.</p>
 
-<h3 id="portafolio"><img src="https://img.icons8.com/small/16/000000/portfolio.png"> Portafolio</h3>
+<h3 id="portafolio">💼 Portafolio</h3>
 
-<h4>Nacho Bot🤖</h4>
+<h4>🤖 Nacho Bot</h4>
 <p>Un chat bot que funciona con la API de OpenAI para resolver preguntas asociadas a la Universidad Nacional sede Medellín.</p>
 <p><a href="https://nachobot.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Nacho_Bot">Repositorio</a></p>
 
-<h4>UNalBot</h4>
+<h4>🗣️ UNalBot</h4>
 <p>UNalBot es un chatbot diseñado y creado por mí, un estudiante de la Universidad Nacional de Colombia, el bot está hecho para servir como un asistente virtual dentro de la misma universidad.</p>
 <p><a href="https://chatbot-un-e3y6wrkckde9tqvuknapp3u.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Chat_Bot">Repositorio</a></p>
 
-<h4>Motor de Búsqueda</h4>
+<h4>🔍 Motor de Búsqueda</h4>
 <p>Aplicación web que permite a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas.</p>
 <p><a href="https://motorbusqueda-b7vqjan3gqwfogzshn8dr.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Motor_busqueda">Repositorio</a></p>
 
-<h4>Simulador de Inversiones</h4>
+<h4>💹 Simulador de Inversiones</h4>
 <p>Esta aplicación permite a los usuarios simular el crecimiento de una inversión a lo largo del tiempo.</p>
 <p><a href="https://simulador-de-inversiones-2v5pajvufmgvfgwah7r89r.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Simulador-de-Inversiones">Repositorio</a></p>
 
-<h4>Análisis de Datos</h4>
+<h4>📊 Análisis de Datos</h4>
 <p>Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes.</p>
 <p><a href="https://data543njfdkmc8qsqcggrjk3.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Analisis_Datos">Repositorio</a></p>
 
-<h3 id="tecnologías"><img src="https://img.icons8.com/small/16/000000/computer.png"> Tecnologías</h3>
-<ul>
-  <li>Python: NumPy, Pandas, Matplotlib</li>
-  <li>Bases de datos: MySQL, SQL Server</li>
-  <li>Web: Streamlit</li>
-  <li>IA: API OpenAI</li>
-</ul>
+<h3 id="tecnologías">💻 Tecnologías</h3>
 
-<h3 id="contacto" align="center">Contacto</h3>
+<p>Estas son las tecnologías que sé usar para backend y análisis de datos:</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p>Estas son las tecnologías que sé usar para bases de datos:</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+<p>Estas son las tecnologías que sé usar para desarrollo web e inteligencia artificial:</p>
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<h3 id="contacto" align="center">📬 Contacto</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-prieto-b36ab2250/"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG37.png" alt="LinkedIn" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.fiverr.com/andres__jimenez?public_mode=true"><img src="https://freelogopng.com/images/all_img/1656738600fiverr-app-logo.png" alt="Fiverr" width="50" style="margin-right: 20px;"></a>
