@@ -6,6 +6,7 @@
   <li><a href="#acerca-de-mí">Acerca de mí</a></li>
   <li><a href="#portafolio">Portafolio</a></li>
   <li><a href="#tecnologías">Tecnologías</a></li>
+  <li><a href="#buy-me-a-coffee">Buy Me a Coffee</a></li>
   <li><a href="#contacto">Contacto</a></li>
 </ul>
 
@@ -58,6 +59,14 @@
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<h3 id="buy-me-a-coffee">☕ Buy Me a Coffee</h3>
+<p>Si te gusta mi trabajo, puedes apoyarme invitándome a un café:</p>
+<p>
+  <a href="https://www.buymeacoffee.com/Andres.Jimenez">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
 </p>
 
 <h3 id="contacto" align="center">📬 Contacto</h3>
