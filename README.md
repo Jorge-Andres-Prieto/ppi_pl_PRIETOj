@@ -2,10 +2,10 @@
 
 <h3>Tabla de Contenido</h3>
 <ul>
-  <li><a href="#introducción">Introducción </a></li>
-  <li><a href="#acerca-de-mí">Acerca de mí </a></li>
-  <li><a href="#portafolio">Portafolio </a></li>
-  <li><a href="#tecnologías">Tecnologías </a></li>
+  <li><a href="#introducción">Introducción</a></li>
+  <li><a href="#acerca-de-mí">Acerca de mí</a></li>
+  <li><a href="#portafolio">Portafolio</a></li>
+  <li><a href="#tecnologías">Tecnologías</a></li>
   <li><a href="#contacto">Contacto</a></li>
 </ul>
 
@@ -16,14 +16,26 @@
 <p>Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional. Tengo un fuerte interés en análisis de datos y me apasiona utilizar la tecnología para resolver problemas y mejorar la eficiencia. Además, tengo experiencia en el uso de la API de OpenAI para desarrollar aplicaciones con inteligencia artificial.</p>
 
 <h3 id="portafolio"><img src="https://img.icons8.com/small/16/000000/portfolio.png"> Portafolio</h3>
-<ul>
-  <li><a href="https://nachobot.streamlit.app/">Nacho Bot🤖</a>: Un chat bot que funciona con la API de OpenAI para resolver preguntas asociadas a la Universidad Nacional sede Medellín. <a href="https://github.com/Jorge-Andres-Prieto/Nacho_Bot">Repositorio</a></li>
-  <li><a href="https://chatbot-un-e3y6wrkckde9tqvuknapp3u.streamlit.app/">UNalBot</a>: UNalBot es un chatbot diseñado y creado por mí, un estudiante de la Universidad Nacional de Colombia, el bot está hecho para servir como un asistente virtual dentro de la misma universidad. <a href="https://github.com/Jorge-Andres-Prieto/Chat_Bot">Repositorio</a></li>
-  <li><a href="https://motorbusqueda-b7vqjan3gqwfogzshn8dr.streamlit.app/">Motor de Búsqueda</a>: Aplicación web que permite a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas. <a href="https://github.com/Jorge-Andres-Prieto/Motor_busqueda">Repositorio</a></li>
-  <li><a href="https://simulador-de-inversiones-2v5pajvufmgvfgwah7r89r.streamlit.app/">Simulador de Inversiones</a>: Esta aplicación permite a los usuarios simular el crecimiento de una inversión a lo largo del tiempo. <a href="https://github.com/Jorge-Andres-Prieto/Simulador-de-Inversiones">Repositorio</a></li>
-  <li><a href="https://data543njfdkmc8qsqcggrjk3.streamlit.app/">Análisis de Datos</a>: Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes. <a href="https://github.com/Jorge-Andres-Prieto/Analisis_Datos">Repositorio</a></li>
-</ul>
 
+<h4>Nacho Bot🤖</h4>
+<p>Un chat bot que funciona con la API de OpenAI para resolver preguntas asociadas a la Universidad Nacional sede Medellín.</p>
+<p><a href="https://nachobot.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Nacho_Bot">Repositorio</a></p>
+
+<h4>UNalBot</h4>
+<p>UNalBot es un chatbot diseñado y creado por mí, un estudiante de la Universidad Nacional de Colombia, el bot está hecho para servir como un asistente virtual dentro de la misma universidad.</p>
+<p><a href="https://chatbot-un-e3y6wrkckde9tqvuknapp3u.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Chat_Bot">Repositorio</a></p>
+
+<h4>Motor de Búsqueda</h4>
+<p>Aplicación web que permite a los usuarios buscar empresas por nombre en un conjunto de datos de empresas colombianas.</p>
+<p><a href="https://motorbusqueda-b7vqjan3gqwfogzshn8dr.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Motor_busqueda">Repositorio</a></p>
+
+<h4>Simulador de Inversiones</h4>
+<p>Esta aplicación permite a los usuarios simular el crecimiento de una inversión a lo largo del tiempo.</p>
+<p><a href="https://simulador-de-inversiones-2v5pajvufmgvfgwah7r89r.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Simulador-de-Inversiones">Repositorio</a></p>
+
+<h4>Análisis de Datos</h4>
+<p>Analiza un conjunto de datos de empresas colombianas para obtener información sobre su estado, municipio, rango de empleados y otras características relevantes.</p>
+<p><a href="https://data543njfdkmc8qsqcggrjk3.streamlit.app/">Aplicación</a> | <a href="https://github.com/Jorge-Andres-Prieto/Analisis_Datos">Repositorio</a></p>
 
 <h3 id="tecnologías"><img src="https://img.icons8.com/small/16/000000/computer.png"> Tecnologías</h3>
 <ul>
